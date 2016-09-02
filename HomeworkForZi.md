@@ -11,7 +11,7 @@ learnphoenix.tv
 ##Phoenix Guides
 1. Up And Running - done
 2. Adding Pages - done
-3. Routing - in progress
+3. Routing - in progress - don't understand 'channel routes'
 4. Plug - saturday
 5. Controllers
 6. Views
